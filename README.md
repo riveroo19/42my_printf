@@ -1,7 +1,7 @@
 # 42Madrid [**printf**](subjects/printf_subject_en.pdf) proyect implementation
 This proyect consists in creating a library that contains the essential information to reproduce `printf` C standard library's function. In this proyect we were allowed to use libft funcions. Some of their behavior have changed, in order to gain extra functionality to make printf run properly and not recreating functions.
 
-[C](https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey)
+![C](https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey)
 
 ## Usage:
 
